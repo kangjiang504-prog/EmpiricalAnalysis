@@ -1,5 +1,5 @@
 # EmpiricalAnalysis
-Stata 实证分析 GUI 工具：傻瓜式操作，一键完成常见计量回归，并同步生成可复现的 Stata `.do` 文件。  A GUI toolkit for Stata empirical analysis: simple point-and-click workflow with automatic, reproducible Stata `.do` file generation.
+Stata 实证分析 GUI 工具：傻瓜式操作，一键实证，一键完成常见计量回归，并同步生成可复现的 Stata `.do` 文件。  A GUI toolkit for Stata empirical analysis: simple point-and-click workflow with automatic, reproducible Stata `.do` file generation.
 【使用时直接运行EmpiricalAnalysis_v1.13.1\dist文件夹里的exe文件】
 中文简介
 
